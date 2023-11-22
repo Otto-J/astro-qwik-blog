@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["astrojs", "qwikdev"]
+  "cSpell.words": ["astrojs", "qwik", "qwikdev"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "astro", // Enable .astro
+    "typescript", // Enable .ts
+    "typescriptreact" // Enable .tsx
+  ]
 }
